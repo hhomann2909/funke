@@ -1,6 +1,6 @@
 # Funke 🔥
 
-Kleine Funken, großes Feuer. Ein Gewohnheits-Tracker als Web-App (PWA): läuft offline, braucht kein Konto, alle Daten bleiben auf dem Gerät.
+Kleine Funken, großes Feuer (Small sparks, big fire). Ein Gewohnheits-Journal auf Deutsch und Englisch als Web-App (PWA): läuft offline, braucht kein Konto, alle Daten bleiben auf dem Gerät.
 
 **App öffnen:** https://hhomann2909.github.io/funke/
 
